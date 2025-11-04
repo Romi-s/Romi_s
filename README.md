@@ -15,9 +15,4 @@ Robotics, AI & Machine Learning Specialist — currently completing an M.Sc. in 
 - **Scene Graph Generation for Robotic Vision** — OWL‑ViT + CLIP for open‑vocabulary object & relation detection
 - **Time‑Series Forecasting for Control** — LSTM with walk‑forward validation for real‑time control signals
 - **Plant Leaf Health Classification** — CNN pipeline with standardized preprocessing & augmentation
-- **CNC Machine Automation** — Cascaded PID/state‑feedback with feed‑forward; reusable Simulink benches
-- **Neural Signal Modeling (LFP)** — Band‑power/coherence features + calibrated classifier
-
 ---
-
-> ⭐️ Pin these repos below so they show up on your profile.
